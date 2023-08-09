@@ -47,7 +47,7 @@ export const Wrapper = styled.div`
     }
 
     h1 {
-        font-family: Fascinate Inline, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
         background-image: linear-gradient(180deg, #fff, #05c953);
         background-size: 100%;
         background-clip: text;
@@ -55,11 +55,11 @@ export const Wrapper = styled.div`
         -webkit-text-fill-color: transparent;
         -moz-background-clip: text;
         -moz-text-fill-color: transparent;
-        font-weight: 400;
+        font-weight: 900;
         filter: drop-shadow(2px 2px #4b4b4b);
         font-size: 70px;
         text-align: center;
-        margin: 20px;
+        margin: 10px;
     }
 
     .start, .next {

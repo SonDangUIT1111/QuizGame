@@ -66,7 +66,7 @@ const App = () => {
     <>
       <GlobalStyle />
       <Wrapper>
-        <h1> REACT - TYSCRIPT QUIZ </h1>
+        <h1> Quizziz </h1>
         {gameOver || userAnswers.length === TOTAL_QUESTIONS ? (
           <button className="start" onClick={startTrivia}>
             Start

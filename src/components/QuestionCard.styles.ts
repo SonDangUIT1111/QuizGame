@@ -3,9 +3,9 @@ import styled from 'styled-components';
 
 export const Wrapper = styled.div`
     max-width: 1100px;
-    background: #f5dff9;
+    background: #f1f1f1;
     border-radius: 10px;
-    border: 4px solid #fff;
+    border: 4px solid #696969;
     padding: 20px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
     text-align: center;
